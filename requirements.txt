@@ -14,3 +14,5 @@ nltk
 spacy
 ll-MiniLM-L6-v2
 wordcloud
+torch
+transformers
