@@ -1,0 +1,16 @@
+bertopic
+sentence-transformers
+pandas
+numpy
+matplotlib
+scikit-learn
+hdbscan
+umap-learn
+PyMuPDF
+striprtf
+glob
+tqdm
+nltk
+spacy
+ll-MiniLM-L6-v2
+wordcloud
